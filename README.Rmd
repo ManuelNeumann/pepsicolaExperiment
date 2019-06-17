@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE,
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(knitr)
 library(magrittr)
-library(tidyverse);theme_set(theme_bw())
+library(tidyverse);theme_set(theme_minimal())
 library(gganimate)
 
 options(scipen = 999) 
