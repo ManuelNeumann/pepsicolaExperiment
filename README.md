@@ -396,7 +396,7 @@ die Nullhypothese *“Berkay kann keinen Unterschied zwischen Coca Cola
 und Pepsi schmecken”* und damit auch *“Es gibt keinen Unterschied
 zwischen Coca Cola”* auf einem Signifikanzniveau von \< 2% zurückweisen.
 Für David, Yannik und Martha müssen wir uns mehr Unsicherheit zugestehen
-- oder wir verwerfen die Nullhypothese eben nicht. Demnach hält auch die
+– oder wir verwerfen die Nullhypothese eben nicht. Demnach hält auch die
 Nullhypothese *“Coca Cola und Coca Cola Zero schmecken gleich”* unserem
 Test für die meisten Fälle stand. Und unsere letzte Challenge zeigt,
 dass es niemandem überzeugend gelungen ist, alle vier Marken
