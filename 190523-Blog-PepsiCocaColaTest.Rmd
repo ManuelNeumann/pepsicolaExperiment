@@ -2,11 +2,12 @@
 title: "Pepsi, Coca Cola und die Geschichte der Nullhypothese"
 author: "Manuel Neumann"
 date: "`r format(Sys.Date(), '%d.%m.%Y')`"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE,
+                      fig.path = "plots/pepsicola-")
 ```
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -145,8 +146,8 @@ Jetzt können wir uns anschauen, wie oft unser Zufallsalgorithmus richtig gerate
 ```{r, echo = FALSE}
 ggplot(simulation1, aes(x = x)) + 
   geom_histogram(binwidth = 1,
-                 fill = "lightgrey",
-                 color = "darkgrey") +
+                 fill = "#96c342",
+                 color = "white") +
   # geom_bar() +
   geom_vline(xintercept = c(2, 4, 5, 6), 
              linetype = "dashed",
@@ -213,8 +214,8 @@ Die Verteilung der zufällig richtig erratenen Becher sieht so aus:
 ```{r, echo = FALSE}
 ggplot(simulation2, aes(x = x)) + 
   geom_histogram(binwidth = 1,
-                 fill = "lightgrey",
-                 color = "darkgrey") +
+                 fill = "#96c342",
+                 color = "white") +
   scale_x_continuous(breaks = c(0:6),
                      labels = c(0:6)) +
   geom_vline(xintercept = c(1, 2, 3),
