@@ -361,8 +361,8 @@ Die Geschichte geht auf die Biologin Muriel Bristol und den Statistiker
 Ronald Fisher zurück. Muriel Bristol behauptete, sie könne erschmecken,
 ob in einen Tee Milch gegossen wurde oder ob die Milch schon in der
 Tasse war, als der Tee eingegossen wurde. Diese Behauptung veranlasste
-Fisher dazu, ein Experiment zu entwerfen, dass es erlauben würde, Muriel
-zu testen. Wie er später in seinem Buch “The Design of Experiments”
+Fisher dazu, ein Experiment zu entwerfen, dass es erlauben würde, sie zu
+testen. Wie er später in seinem Buch “The Design of Experiments”
 schrieb, bestand der Test daraus, dass Bristol acht Tassen präsentiert
 wurden. In vier war die Milch vor dem Tee in der Tasse gewesen, in den
 vier anderen war sie anschließend eingegossen worden.
@@ -382,7 +382,7 @@ es auch für dieses Experiment eine Verteilung aller möglichen Ereignisse
 – so wie wir sie oben gesehen haben. Unter diesen Voraussetzungen lag
 die Chance, zufällig alle Tassen richtig identifiziert zu haben, bei
 1,4%. Das ließ Fisher zu dem Ergebnis kommen, dass er die Hypothese,
-dass Muriel die behauptete Fähigkeit *nicht* habe, auf einem
+dass Bristol die behauptete Fähigkeit *nicht* habe, auf einem
 Signifikanzniveau von 1,4% zurückweisen kann.
 
 # Fazit?
