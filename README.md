@@ -5,7 +5,7 @@ Manuel Neumann
 
 ## “Pepsi schmeckt gaaaanz anders\!”
 
-Wie viele gute Geschichten beginnt diese hier in einer Bar - genauer
+Wie viele gute Geschichten beginnt diese hier in einer Bar – genauer
 gesagt in einem Irish Pub. Die Kellnerin kommt und nimmt unsere
 Bestellung auf. Yannik behält die Getränkekarte anschließend einen
 Moment in der Hand. “Mh. Die haben hier nur Pepsi”, sagt er und löst
@@ -32,7 +32,7 @@ nach einer Geschmacksprobe sicher, um was es sich handelt, oder ich bin
 es nicht und rate. Im ersten Fall gebe ich also meine Meinung kund, im
 zweiten sage ich zufällig Pepsi oder Coca Cola. Da ich mich aber nur
 einmal zwischen den beiden Marken entscheiden muss, ist die Chance, dass
-ich mit meiner geratenen Angabe richtig liege genau ein Halb - oder 50%.
+ich mit meiner geratenen Angabe richtig liege genau ein Halb – oder 50%.
 
 Es ist, als würde ich einmal eine perfekte Münze werfen und danach mein
 Urteil fällen. Die Chance, dass ich als eigentlich völlig ahnungsloser
@@ -379,7 +379,7 @@ dass der Effekt, der den Zustand hervorbringt, überhaupt nicht vorhanden
 ist (Bsp.: die Testerin weiß es nicht, sie rät). Muriel Bristol konnte
 tatsächlich alle Tassen identifizieren. Wie Ronald Fisher zeigte, gibt
 es auch für dieses Experiment eine Verteilung aller möglichen Ereignisse
-- so wie wir sie oben gesehen haben. Unter diesen Voraussetzungen lag
+– so wie wir sie oben gesehen haben. Unter diesen Voraussetzungen lag
 die Chance, zufällig alle Tassen richtig identifiziert zu haben, bei
 1,4%. Das ließ Fisher zu dem Ergebnis kommen, dass er die Hypothese,
 dass Muriel die behauptete Fähigkeit *nicht* habe, auf einem
